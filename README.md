@@ -1,2 +1,2 @@
 # clanglab
-Ashish sir jindabaad
+# Assignment for C lang RISU
